@@ -1,5 +1,5 @@
 # createDEM
-## Intro
+## Introduction
 - 基于AutoCAD和C#的二次开发，调用AutoCAD程序集，并在AutoCAD中通过代码计算并绘制不规则三角网（TIN）与等高线 
 - 测试于`AutoCAD 2014`与`VS2010`
 
